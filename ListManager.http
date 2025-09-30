@@ -1,0 +1,6 @@
+@ListManager_HostAddress = http://localhost:5191
+
+GET {{ListManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

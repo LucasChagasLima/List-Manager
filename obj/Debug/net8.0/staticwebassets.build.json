@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "6FG0JZTAN2qsOB2m025QXTFw01FWp3mFoPHqCW9itBQ=",
+  "Source": "ListManager",
+  "BasePath": "_content/ListManager",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ListManager/wwwroot",
+      "Source": "ListManager",
+      "ContentRoot": "/home/lucas/Documentos/Projetos/List-Manager/wwwroot/",
+      "BasePath": "_content/ListManager",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/lucas/Documentos/Projetos/List-Manager/wwwroot/index.html",
+      "SourceId": "ListManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/lucas/Documentos/Projetos/List-Manager/wwwroot/",
+      "BasePath": "_content/ListManager",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4mk0k17rsh",
+      "Integrity": "XNDVy6q4RuJp2MvKbgTCTqNS2Y6EqSmYQVbgZSyO5rk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/home/lucas/Documentos/Projetos/List-Manager/wwwroot/script.js",
+      "SourceId": "ListManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/lucas/Documentos/Projetos/List-Manager/wwwroot/",
+      "BasePath": "_content/ListManager",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4fsza5la9q",
+      "Integrity": "YDdVoZfTk9/4NkGH1/lnqzeZJxJpqhq5q4x3dBpWuYs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/script.js"
+    },
+    {
+      "Identity": "/home/lucas/Documentos/Projetos/List-Manager/wwwroot/styles.css",
+      "SourceId": "ListManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/lucas/Documentos/Projetos/List-Manager/wwwroot/",
+      "BasePath": "_content/ListManager",
+      "RelativePath": "styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ujuxvv7i4z",
+      "Integrity": "Fpy5OyRO4cTZ1bweKdw5O8rDhAAv7FZqrmNVaMO4FjE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/styles.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.4mk0k17rsh.html",
+      "AssetFile": "/home/lucas/Documentos/Projetos/List-Manager/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9689"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XNDVy6q4RuJp2MvKbgTCTqNS2Y6EqSmYQVbgZSyO5rk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 30 Sep 2025 12:59:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4mk0k17rsh"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XNDVy6q4RuJp2MvKbgTCTqNS2Y6EqSmYQVbgZSyO5rk="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/home/lucas/Documentos/Projetos/List-Manager/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9689"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XNDVy6q4RuJp2MvKbgTCTqNS2Y6EqSmYQVbgZSyO5rk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 30 Sep 2025 12:59:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XNDVy6q4RuJp2MvKbgTCTqNS2Y6EqSmYQVbgZSyO5rk="
+        }
+      ]
+    },
+    {
+      "Route": "script.4fsza5la9q.js",
+      "AssetFile": "/home/lucas/Documentos/Projetos/List-Manager/wwwroot/script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18710"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YDdVoZfTk9/4NkGH1/lnqzeZJxJpqhq5q4x3dBpWuYs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 30 Sep 2025 13:00:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4fsza5la9q"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YDdVoZfTk9/4NkGH1/lnqzeZJxJpqhq5q4x3dBpWuYs="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "/home/lucas/Documentos/Projetos/List-Manager/wwwroot/script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18710"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YDdVoZfTk9/4NkGH1/lnqzeZJxJpqhq5q4x3dBpWuYs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 30 Sep 2025 13:00:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YDdVoZfTk9/4NkGH1/lnqzeZJxJpqhq5q4x3dBpWuYs="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "/home/lucas/Documentos/Projetos/List-Manager/wwwroot/styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3453"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fpy5OyRO4cTZ1bweKdw5O8rDhAAv7FZqrmNVaMO4FjE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 30 Sep 2025 12:59:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fpy5OyRO4cTZ1bweKdw5O8rDhAAv7FZqrmNVaMO4FjE="
+        }
+      ]
+    },
+    {
+      "Route": "styles.ujuxvv7i4z.css",
+      "AssetFile": "/home/lucas/Documentos/Projetos/List-Manager/wwwroot/styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3453"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fpy5OyRO4cTZ1bweKdw5O8rDhAAv7FZqrmNVaMO4FjE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 30 Sep 2025 12:59:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ujuxvv7i4z"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fpy5OyRO4cTZ1bweKdw5O8rDhAAv7FZqrmNVaMO4FjE="
+        }
+      ]
+    }
+  ]
+}

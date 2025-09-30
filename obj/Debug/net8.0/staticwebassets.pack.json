@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "/home/lucas/Documentos/Projetos/List-Manager/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/lucas/Documentos/Projetos/List-Manager/wwwroot/script.js",
+      "PackagePath": "staticwebassets/script.js"
+    },
+    {
+      "Id": "/home/lucas/Documentos/Projetos/List-Manager/wwwroot/styles.css",
+      "PackagePath": "staticwebassets/styles.css"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.ListManager.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.ListManager.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.ListManager.props",
+      "PackagePath": "build\\ListManager.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ListManager.props",
+      "PackagePath": "buildMultiTargeting\\ListManager.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ListManager.props",
+      "PackagePath": "buildTransitive\\ListManager.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
