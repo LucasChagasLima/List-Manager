@@ -69,3 +69,4 @@
 /home/lucas/Documentos/Projetos/List-Manager/obj/Debug/net8.0/ListManager.pdb
 /home/lucas/Documentos/Projetos/List-Manager/obj/Debug/net8.0/ListManager.genruntimeconfig.cache
 /home/lucas/Documentos/Projetos/List-Manager/obj/Debug/net8.0/ref/ListManager.dll
+/home/lucas/Documentos/Projetos/List-Manager/obj/Debug/net8.0/ListManager.sourcelink.json

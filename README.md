@@ -2,6 +2,10 @@
 
 Este é um projeto de exemplo de um gerenciador de listas simples, desenvolvido em ASP.NET Core Web API para o backend e HTML, CSS (Tailwind CSS) e JavaScript puro para o frontend. Ele permite criar diferentes tipos de listas (compras, tarefas, anotações, metas) e gerenciar itens dentro delas, incluindo adicionar, editar, excluir e marcar como concluído. Este projeto é ideal para ser incluído em um portfólio, demonstrando habilidades em desenvolvimento web full-stack com .NET.
 
+## Imagens do Projeto
+
+
+
 ## Funcionalidades
 
 - **Criação e Gerenciamento de Listas:** Crie, visualize, edite e exclua listas com nome, descrição, tipo e cor personalizados.
