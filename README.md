@@ -4,6 +4,17 @@ Este é um projeto de exemplo de um gerenciador de listas simples, desenvolvido 
 
 ## Imagens do Projeto
 
+<img width="1617" height="560" alt="image" src="https://github.com/user-attachments/assets/cfb9dbee-9023-4c45-8fd8-61733a5bcc67" />
+
+<img width="1488" height="790" alt="image" src="https://github.com/user-attachments/assets/938c7079-3084-4681-812e-24d3c16dde9a" />
+
+<img width="1488" height="790" alt="image" src="https://github.com/user-attachments/assets/00e9dc8d-3545-41ff-8064-99312a0a8cdd" />
+
+<img width="1488" height="790" alt="image" src="https://github.com/user-attachments/assets/8ddf918e-98cd-44a0-8b69-18cae7654e49" />
+
+<img width="1488" height="790" alt="image" src="https://github.com/user-attachments/assets/50326d18-0863-41fe-a71d-f8c9b4189876" />
+
+
 
 
 ## Funcionalidades
